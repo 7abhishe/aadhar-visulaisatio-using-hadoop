@@ -1,4 +1,4 @@
-# aadhar-visulaisatio-using-hadoop
+# aadhar data -visulaisation-using-hadoop in parallel computing.
 first installation of Hadoop on Linux, Windows, or Mac
 
 then check all resource by using jps.
